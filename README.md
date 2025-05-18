@@ -1,5 +1,4 @@
 <h1 align="center">Hello, Pichot</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pichot06&label=Profile%20views&color=0e75b6&style=flat" alt="pichot06" /> </p>
 
 
 
