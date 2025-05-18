@@ -1,9 +1,6 @@
 <h1 align="center">Hello, Pichot</h1>
 
 
-
-- 👨‍💻 All of my projects are available at [on my github](on my github)
-
 - 📫 How to reach me **alexandre.pichotx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
